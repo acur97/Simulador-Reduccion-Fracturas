@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: f5dcb7e30455b4890b9a93a274678b2e
+timeCreated: 1502376646
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Base_escaner
+    100002: Brazo_escaner
+    100004: Cable
+    100006: Camilla
+    100008: Equipos
+    100010: //RootNode
+    100012: Escaner
+    100014: Lamparas1
+    100016: Mesas1
+    100018: Monitor1
+    100020: Papeleras
+    100022: Pc
+    100024: PCEscritorio
+    100026: pCube131
+    100028: pCube132
+    100030: pCube133
+    100032: pCylinder56
+    100034: pCylinder57
+    100036: pCylinder58
+    100038: pCylinder59
+    100040: pCylinder60
+    100042: pCylinder61
+    100044: pCylinder62
+    100046: pCylinder63
+    100048: polySurface11
+    100050: polySurface12
+    100052: polySurface8
+    100054: pTorus10
+    100056: Puerta2
+    100058: PuertaPrincipal
+    100060: Sin_terminar
+    100062: Soporte
+    100064: soporte
+    100066: Soporte1
+    400000: Base_escaner
+    400002: Brazo_escaner
+    400004: Cable
+    400006: Camilla
+    400008: Equipos
+    400010: //RootNode
+    400012: Escaner
+    400014: Lamparas1
+    400016: Mesas1
+    400018: Monitor1
+    400020: Papeleras
+    400022: Pc
+    400024: PCEscritorio
+    400026: pCube131
+    400028: pCube132
+    400030: pCube133
+    400032: pCylinder56
+    400034: pCylinder57
+    400036: pCylinder58
+    400038: pCylinder59
+    400040: pCylinder60
+    400042: pCylinder61
+    400044: pCylinder62
+    400046: pCylinder63
+    400048: polySurface11
+    400050: polySurface12
+    400052: polySurface8
+    400054: pTorus10
+    400056: Puerta2
+    400058: PuertaPrincipal
+    400060: Sin_terminar
+    400062: Soporte
+    400064: soporte
+    400066: Soporte1
+    2300000: Base_escaner
+    2300002: Brazo_escaner
+    2300004: Cable
+    2300006: Camilla
+    2300008: Equipos
+    2300010: Escaner
+    2300012: Lamparas1
+    2300014: Mesas1
+    2300016: Monitor1
+    2300018: Papeleras
+    2300020: Pc
+    2300022: PCEscritorio
+    2300024: pCube131
+    2300026: pCube132
+    2300028: pCube133
+    2300030: pCylinder56
+    2300032: pCylinder57
+    2300034: pCylinder58
+    2300036: pCylinder59
+    2300038: pCylinder60
+    2300040: pCylinder61
+    2300042: pCylinder62
+    2300044: pCylinder63
+    2300046: polySurface11
+    2300048: polySurface12
+    2300050: polySurface8
+    2300052: pTorus10
+    2300054: Puerta2
+    2300056: PuertaPrincipal
+    2300058: Soporte
+    2300060: soporte
+    2300062: Soporte1
+    3300000: Base_escaner
+    3300002: Brazo_escaner
+    3300004: Cable
+    3300006: Camilla
+    3300008: Equipos
+    3300010: Escaner
+    3300012: Lamparas1
+    3300014: Mesas1
+    3300016: Monitor1
+    3300018: Papeleras
+    3300020: Pc
+    3300022: PCEscritorio
+    3300024: pCube131
+    3300026: pCube132
+    3300028: pCube133
+    3300030: pCylinder56
+    3300032: pCylinder57
+    3300034: pCylinder58
+    3300036: pCylinder59
+    3300038: pCylinder60
+    3300040: pCylinder61
+    3300042: pCylinder62
+    3300044: pCylinder63
+    3300046: polySurface11
+    3300048: polySurface12
+    3300050: polySurface8
+    3300052: pTorus10
+    3300054: Puerta2
+    3300056: PuertaPrincipal
+    3300058: Soporte
+    3300060: soporte
+    3300062: Soporte1
+    4300000: pCylinder57
+    4300002: pCube132
+    4300004: pCylinder62
+    4300006: pCylinder63
+    4300008: pCube133
+    4300010: pCube131
+    4300012: polySurface8
+    4300014: polySurface11
+    4300016: polySurface12
+    4300018: pTorus10
+    4300020: pCylinder56
+    4300022: pCylinder58
+    4300024: pCylinder59
+    4300026: pCylinder60
+    4300028: pCylinder61
+    4300030: Soporte1
+    4300032: soporte
+    4300034: Brazo_escaner
+    4300036: Escaner
+    4300038: Camilla
+    4300040: Papeleras
+    4300042: Lamparas1
+    4300044: Pc
+    4300046: PCEscritorio
+    4300048: Mesas1
+    4300050: Equipos
+    4300052: Soporte
+    4300054: Base_escaner
+    4300056: Monitor1
+    4300058: Cable
+    4300060: Puerta2
+    4300062: PuertaPrincipal
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

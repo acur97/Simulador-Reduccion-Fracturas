@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 434f6072b6222bb4eb6e3e0a195b5c04, type: 3}
+  m_Name: Offsets tst
+  m_EditorClassIdentifier: 
+  offSetUpLimbX: 0
+  offSetUpLimbY: 0
+  offSetUpLimbZ: 0
+  offSetUpLimbRotX: 2
+  offSetUpLimbRotY: 0
+  offSetUpLimbRotZ: 4
+  offSetLoLimbX: 1.75
+  offSetLoLimbY: 1.25
+  offSetLoLimbZ: -8
+  offSetLoLimbRotX: 0.25
+  offSetLoLimbRotY: 0
+  offSetLoLimbRotZ: -1.5

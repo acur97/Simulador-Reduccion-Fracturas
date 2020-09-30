@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 493c65cddc5894381b8c973dfaa2c91e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Base_escaner
+    100002: Brazo_escaner
+    100004: Cable
+    100006: Camilla
+    100008: Equipos
+    100010: Escaner
+    100012: Lamparas1
+    100014: Mesas1
+    100016: Monitor1
+    100018: Papeleras
+    100020: ParedE
+    100022: ParedN
+    100024: ParedOe
+    100026: ParedS
+    100028: Pc
+    100030: PCEscritorio
+    100032: pCube131
+    100034: pCube132
+    100036: pCube133
+    100038: pCylinder56
+    100040: pCylinder57
+    100042: pCylinder58
+    100044: pCylinder59
+    100046: pCylinder60
+    100048: pCylinder61
+    100050: pCylinder62
+    100052: pCylinder63
+    100054: piso
+    100056: polySurface11
+    100058: polySurface12
+    100060: polySurface8
+    100062: pTorus10
+    100064: Puerta2
+    100066: PuertaPrincipal
+    100068: //RootNode
+    100070: Sin_terminar
+    100072: Soporte
+    100074: soporte
+    100076: Soporte1
+    100078: Techo1
+    400000: Base_escaner
+    400002: Brazo_escaner
+    400004: Cable
+    400006: Camilla
+    400008: Equipos
+    400010: Escaner
+    400012: Lamparas1
+    400014: Mesas1
+    400016: Monitor1
+    400018: Papeleras
+    400020: ParedE
+    400022: ParedN
+    400024: ParedOe
+    400026: ParedS
+    400028: Pc
+    400030: PCEscritorio
+    400032: pCube131
+    400034: pCube132
+    400036: pCube133
+    400038: pCylinder56
+    400040: pCylinder57
+    400042: pCylinder58
+    400044: pCylinder59
+    400046: pCylinder60
+    400048: pCylinder61
+    400050: pCylinder62
+    400052: pCylinder63
+    400054: piso
+    400056: polySurface11
+    400058: polySurface12
+    400060: polySurface8
+    400062: pTorus10
+    400064: Puerta2
+    400066: PuertaPrincipal
+    400068: //RootNode
+    400070: Sin_terminar
+    400072: Soporte
+    400074: soporte
+    400076: Soporte1
+    400078: Techo1
+    2300000: Base_escaner
+    2300002: Brazo_escaner
+    2300004: Cable
+    2300006: Camilla
+    2300008: Equipos
+    2300010: Escaner
+    2300012: Lamparas1
+    2300014: Mesas1
+    2300016: Monitor1
+    2300018: Papeleras
+    2300020: ParedE
+    2300022: ParedN
+    2300024: ParedOe
+    2300026: ParedS
+    2300028: Pc
+    2300030: PCEscritorio
+    2300032: pCube131
+    2300034: pCube132
+    2300036: pCube133
+    2300038: pCylinder56
+    2300040: pCylinder57
+    2300042: pCylinder58
+    2300044: pCylinder59
+    2300046: pCylinder60
+    2300048: pCylinder61
+    2300050: pCylinder62
+    2300052: pCylinder63
+    2300054: piso
+    2300056: polySurface11
+    2300058: polySurface12
+    2300060: polySurface8
+    2300062: pTorus10
+    2300064: Puerta2
+    2300066: PuertaPrincipal
+    2300068: Soporte
+    2300070: soporte
+    2300072: Soporte1
+    2300074: Techo1
+    3300000: Base_escaner
+    3300002: Brazo_escaner
+    3300004: Cable
+    3300006: Camilla
+    3300008: Equipos
+    3300010: Escaner
+    3300012: Lamparas1
+    3300014: Mesas1
+    3300016: Monitor1
+    3300018: Papeleras
+    3300020: ParedE
+    3300022: ParedN
+    3300024: ParedOe
+    3300026: ParedS
+    3300028: Pc
+    3300030: PCEscritorio
+    3300032: pCube131
+    3300034: pCube132
+    3300036: pCube133
+    3300038: pCylinder56
+    3300040: pCylinder57
+    3300042: pCylinder58
+    3300044: pCylinder59
+    3300046: pCylinder60
+    3300048: pCylinder61
+    3300050: pCylinder62
+    3300052: pCylinder63
+    3300054: piso
+    3300056: polySurface11
+    3300058: polySurface12
+    3300060: polySurface8
+    3300062: pTorus10
+    3300064: Puerta2
+    3300066: PuertaPrincipal
+    3300068: Soporte
+    3300070: soporte
+    3300072: Soporte1
+    3300074: Techo1
+    4300000: pCylinder57
+    4300002: pCube132
+    4300004: pCylinder62
+    4300006: pCylinder63
+    4300008: pCube133
+    4300010: pCube131
+    4300012: polySurface8
+    4300014: polySurface11
+    4300016: polySurface12
+    4300018: pTorus10
+    4300020: pCylinder56
+    4300022: pCylinder58
+    4300024: pCylinder59
+    4300026: pCylinder60
+    4300028: pCylinder61
+    4300030: Soporte1
+    4300032: soporte
+    4300034: Brazo_escaner
+    4300036: Escaner
+    4300038: piso
+    4300040: Camilla
+    4300042: Papeleras
+    4300044: Lamparas1
+    4300046: Pc
+    4300048: PCEscritorio
+    4300050: Mesas1
+    4300052: Equipos
+    4300054: ParedE
+    4300056: ParedOe
+    4300058: ParedN
+    4300060: ParedS
+    4300062: Soporte
+    4300064: Base_escaner
+    4300066: Techo1
+    4300068: Monitor1
+    4300070: Cable
+    4300072: Puerta2
+    4300074: PuertaPrincipal
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: f4280862dc0b34e0b9af4f210297ae1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cable_negro
+    second: {fileID: 2100000, guid: 57b2a5c87998e4fabb7d536683e81bc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escaner_braso
+    second: {fileID: 2100000, guid: b552939e42ad74e4c84ac1d88958c381, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escritorio
+    second: {fileID: 2100000, guid: 78a77c89962c9474ca64a2f17ecd6877, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamparas
+    second: {fileID: 2100000, guid: 98ad51072d8ac4c2f9290a16773bc8d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mesas
+    second: {fileID: 2100000, guid: e01c2bd816eab45549a88b16de51e25b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor
+    second: {fileID: 2100000, guid: 0024cad06cfea4f3fa82fb2960d3d551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pared
+    second: {fileID: 2100000, guid: f0f9de339c25f40609d9806e23cd93f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piso
+    second: {fileID: 2100000, guid: c3da1a13c8ac4448390ea366f81361ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puerta
+    second: {fileID: 2100000, guid: 137f1a92e934d49feacdb0dc3a26ab75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puntos
+    second: {fileID: 2100000, guid: 7ce8b4acab95c40cf94c5b4e31ce2fd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reloj
+    second: {fileID: 2100000, guid: e4af80d10e56340f2a67951da526de80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soportes
+    second: {fileID: 2100000, guid: 1b5ba3c08e48a4838bdb180941ef4038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Suich
+    second: {fileID: 2100000, guid: 4d0703ae20dcf48f5a5431f9ee5b9ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Techo
+    second: {fileID: 2100000, guid: d05b8b6ae59de41c483c60d3689eae12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: camilla1
+    second: {fileID: 2100000, guid: 5ff29d486ef0e4b7a916ba470754de5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 17dcf7a5fb9674a08a2a92f361433e85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: papeleras
+    second: {fileID: 2100000, guid: 81da7ca7106ba498c8b7c19fc2479f66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong5
+    second: {fileID: 2100000, guid: 64f473696ca914812bf44f83bdaeb5d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong7
+    second: {fileID: 2100000, guid: 8561bc3ed20974b04992a9ec9f81d42f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong8
+    second: {fileID: 2100000, guid: f4cc5e3df7a2140b599af29a804027d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong9
+    second: {fileID: 2100000, guid: e1e923de381fe421ab4e9fad6e937c1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE2
+    second: {fileID: 2100000, guid: 1fe2ae702f9a14897885a13e6f228c49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tomacorriente
+    second: {fileID: 2100000, guid: b7ba35f63496a4f49953b1e53e051d0a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 90
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
